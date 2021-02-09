@@ -15,7 +15,7 @@ Support `Laravel > 5.5 - 5.8` (`PHP < 7.1.3`), `Laravel 6.*` (`PHP > 7.2`), `Lar
 ![bg](https://miro.medium.com/max/4656/1*mzMIXN2JodV2taEBzmUKLg.png)
 
 ---
-### Como usar
+### Como usar:
 
 - Clone o repositório com __git clone__
 - Copie o arquivo __. Env.example__ para __. Env__ e edite as credenciais do banco de dados lá
