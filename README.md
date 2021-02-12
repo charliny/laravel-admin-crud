@@ -18,7 +18,7 @@ Support `Laravel > 5.5 - 5.8` (`PHP < 7.1.3`), `Laravel 6.*` (`PHP > 7.2`), `Lar
 ### Como usar:
 
 - Clone o repositório com __git clone__
-- Copie o arquivo __. Env.example__ para __. Env__ e edite as credenciais do banco de dados lá
+- Renomeie __. Env.example__ para __. Env__ e edite as credenciais do banco de dados lá
 - Execute __composer install__
 - Execute __php artisan key: generate__
 - Execute __php artisan migrate__
